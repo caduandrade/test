@@ -1,4 +1,7 @@
 {% include teste.html %} 
   <body> 
-  {% include teste.html %} 
+{% capture includeGuts %}
+{% include teste.html %} 
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}
 </body>
