@@ -1,5 +1,6 @@
 #theme: jekyll-theme-minimal
-ignore_theme_config: true
+theme: minima
+#ignore_theme_config: true
 plugins:
   - jekyll-relative-links
 relative_links:
