@@ -1,6 +1,6 @@
 <style>
   .footer {
-    display: none;
+    display: nona;
   }
 </style>
 
