@@ -1,6 +1,7 @@
 #remote_theme: sighingnow/jekyll-gitbook
 #plugins:
 #- jekyll-remote-theme
+markdown: GFM
 toc:
     enabled: true
     h_min: 1
