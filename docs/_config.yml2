@@ -1,10 +1,8 @@
-#theme: jekyll-theme-minimal
-#theme: minima
-#ignore_theme_config: true
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
+#remote_theme: sighingnow/jekyll-gitbook
+#plugins:
+#- jekyll-remote-theme
+markdown: GFM
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
